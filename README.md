@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFF7&lines=Welcome+to+My+Cyber+World;Hacking+Ethically+%F0%9F%94%92;Exploring+Dark+Corners+of+the+Internet)](https://git.io/typing-svg)
+
 # 💫 About Me:
 ## 😈 About Me<br><br>- 🕶️ A cyber mind wandering in the dark corners of the internet.  <br>- 💀 Passionate about **ethical hacking**, **dark web security**, and digital warfare.  <br>- ⚡ Obsessed with **penetration testing**, **reverse engineering**, and **exploiting vulnerabilities** – but only for good.  <br>- 🧠 Always decoding the matrix: **scripts, exploits, and zero-days**.  <br>- 🔥 Living by the code: *"Think like a hacker, protect like a guardian."*  <br>- 🕸️ Currently building tools that blur the line between chaos and control.  <br><br>> *"In the sha*<br>
 
